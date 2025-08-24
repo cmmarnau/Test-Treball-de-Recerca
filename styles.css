@@ -1,0 +1,34 @@
+body { 
+  font-family: Arial; 
+  max-width: 500px; 
+  margin: 32px auto; 
+  background: #f5f5f5; 
+}
+
+.pregunta { 
+  display: none; 
+  background: #fff; 
+  padding: 32px; 
+  border-radius: 10px; 
+  margin-bottom: 16px; 
+}
+
+.activa { 
+  display: block; 
+}
+
+.opcions label { 
+  display: block; 
+  margin: 8px 0; 
+}
+
+.navegacio { 
+  margin-top: 16px; 
+}
+
+.resultats { 
+  display: none; 
+  background: #fff; 
+  padding: 32px; 
+  border-radius: 10px; 
+}
